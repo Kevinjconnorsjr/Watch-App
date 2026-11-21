@@ -1,0 +1,13 @@
+<!-- A simple watch-with-motion-lines icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M9,2h6l0.6,3.2A6.5,6.5 0,0 1,18.5 12a6.5,6.5 0,0 1,-2.9 6.8L15,22H9l-0.6,-3.2A6.5,6.5 0,0 1,5.5 12a6.5,6.5 0,0 1,2.9 -6.8ZM12,8a4,4 0,1 0,0 8a4,4 0,1 0,0 -8Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M1,9h2.5v1.5H1ZM1,13.5h2.5V15H1ZM20.5,9H23v1.5h-2.5ZM20.5,13.5H23V15h-2.5Z" />
+</vector>
